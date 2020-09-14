@@ -1,5 +1,9 @@
 # event-list-vue
 
+## Project description
+Single Page Application with possibility to filter data by type or date from calendar from static json file.
+Includes pagination and responsivness.
+
 ## Project setup
 ```
 npm install
@@ -10,15 +14,11 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Project preview
+![Alt Text](https://media.giphy.com/media/llNlBoxwlZKLuRo4WL/giphy.gif)
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## ToDo Improvements
+1. Replace JavaScript with TypeScript.
+2. Optimise components into smaller pieces.
+3. Add search functionality.
+4. Add highlighted dates with events in calendar.
